@@ -7,27 +7,27 @@ This is a React application allowing users to search for books using the Open Li
 
 ### Features:
 - **Book Search**: Users can search for books using the Open Library API.
-- 
+  
 - **Real-time Results**: Search results are displayed in real-time as the user types.
-- 
+  
 - **Add to Bookshelf**: Users can add books from the search results to their personal bookshelf.
-- 
+  
 - **Delete from Bookshelf**: Users can remove books from their personal bookshelf.
-- 
+  
 - **LocalStorage**: The user's bookshelf is stored persistently in the browser using localStorage.
-- 
+  
 - **Separate Pages**: The application consists of separate pages for book search and the personal bookshelf.
-- 
+  
 - **Efficient API Usage**: Utilizes the Open Library API efficiently for fetching book search results.
-- 
+  
 - **Proper React Component Structure**: Maintains a proper React component structure and interactivity.
-- 
+  
 - **User-Friendly Interface**: Provides a smooth user experience with an intuitive interface.
-- 
+  
 - **Styling Options**: Offers flexibility in styling using CSS-in-JS, CSS modules, or regular CSS classnames.
-- 
+  
 - **Responsiveness**: The application is responsive and works well on various screen sizes and devices.
-
+  
 With these features, users can easily search for books, add them to their personal bookshelf, remove books as needed, and manage their reading list conveniently within the browser, on any device.
 
 ## Installation

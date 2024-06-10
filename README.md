@@ -1,5 +1,5 @@
 
-# personal-bookself
+# personal_bookself
 
 
 This is a React application allowing users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
@@ -40,12 +40,12 @@ To install the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/personal-bookshelf.git
+git clone https://github.com/menavipandey/Personal_Bookself.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd personal-bookshelf
+cd personal_bookshelf
 ``` 
 
 3. Install dependencies using npm:
